@@ -1,0 +1,115 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+  font-family: 'Roboto', sans-serif;
+  background-color: #FFFCF9;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+.svg-inline--fa.fa-w-8{
+  width: 4em;
+}
+.carousel-control{
+  height: 4em;
+  width:4em;
+  color: #ffffff;
+}
+
+.navbar-brand {
+  font-family: 'Oswald', sans-serif;
+}
+
+.carousel-caption {
+background-color: rgba(0, 0, 0, 0.56);
+padding: 15px;
+}
+
+.slick-next::before, .slick-prev::before{
+  color: rgba(0, 0, 0, 0.56);
+}
+
+.img-fluid{
+  padding:5px;
+}
+
+.card-title a {
+  color: #5A6267;
+  text-decoration: none;
+}
+
+.card-title a:hover {
+  text-decoration: none;
+}
+
+.jumbotron {
+  background: url('../imgs/jumbotron.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-y:auto;
+  height: 100vh;
+}
+
+.main-icons{
+  font-size: 10em;
+}
+
+.logo {
+  color:#FF6978;
+  font-family: 'Schoolbell', cursive;  
+}
+
+.color-main {
+  color:#FF6978;
+  font-family: 'Schoolbell', cursive;  
+}
+
+.color-text {
+  color: #6D435A;
+}
+
+.jumbotron-text {
+  margin-top: 20vh;
+}
+
+.btn-contact{
+  margin-top: 20vh;
+  font-size: 1.5em;
+  background-color: #6D435A;
+  padding: 20px 40px;
+  color: #FF6978;
+}
+
+.fancy-text {
+  font-size:3em;
+
+  font-family: 'Dawning of a New Day', cursive;
+}
+
+.bg-dark {
+  background-color: #6D435A!important;  
+}

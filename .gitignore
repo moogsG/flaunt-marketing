@@ -1,0 +1,13 @@
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Vagrant Files
+.vagrant/
+VagrantFile
+
+#build folder
+build/
